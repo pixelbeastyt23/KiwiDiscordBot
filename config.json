@@ -1,0 +1,22 @@
+{
+  "botName": "KIWI",
+  "version": "1.0.0",
+  "developer": "Pixel Beast 🍃",
+  "color": "#00ffb3",
+  "defaultPrefix": "/",
+  "ownerId": "YOUR_DISCORD_ID_HERE",
+  "supportServer": "https://discord.gg/yourinvite",
+  "automod": {
+    "enabled": true,
+    "maxMentions": 5,
+    "spamLimit": 5,
+    "spamInterval": 5000
+  },
+  "economy": {
+    "dailyAmount": 1000,
+    "workMin": 100,
+    "workMax": 500,
+    "begMin": 10,
+    "begMax": 100
+  }
+}
